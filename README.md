@@ -33,3 +33,5 @@ sudo ./IBruter.sh
 chmod +x requirements.sh
 sudo ./requirements.sh
 ```
+
+## may or maynot work for some due to updated instagram login attepmt limits per id it was a Proof Of Concept (POC) for Instagram lacking login attempts limit and make sure to keep tor updated ! 
