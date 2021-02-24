@@ -3,7 +3,7 @@
 
 ## Author: https://github.com/harsh2527
 
-## Instagram: @harsh2527
+## Instagram: @0x4841524d
 
 IBruter is an Shell Script to perform  brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of 400+ passwords/min using 20 threads.
 
@@ -34,4 +34,5 @@ chmod +x requirements.sh
 sudo ./requirements.sh
 ```
 
-## may or maynot work for some due to updated instagram login attepmt limits per id it was a Proof Of Concept (POC) for Instagram lacking login attempts limit and make sure to keep tor updated ! 
+####
+May or maynot work for some due to updated instagram login attepmt limits per id it was a Proof Of Concept (POC) for Instagram lacking login attempts limit and make sure to keep tor updated ! 
