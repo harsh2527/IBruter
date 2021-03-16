@@ -1,4 +1,4 @@
-# IBruter v1.0
+# IBruter v1.1
  Instagram Brute Force tool
 
 ## Author: https://github.com/harsh2527
